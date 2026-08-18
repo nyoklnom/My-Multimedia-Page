@@ -1,0 +1,50 @@
+*{
+font-family:Arial, Helvetica, sans-serif;
+color: #fffbfb;
+} 
+
+h1{
+    color: #e12a2a;
+    text-align: center;
+}
+
+
+.Pictures{
+    background-color: #3e6e46;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.Pictures img{
+    border-radius: 10px;
+    border: 2px solid #55bc5e;
+}
+
+.Audio{
+    background-color: #3e6e46;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.Audio audio{
+    border-radius: 30px;
+    border: 2px solid #55bc5e;
+}
+
+.Video{
+    background-color: #3e6e46;
+    padding: 20px;
+    border-radius: 10px;
+    
+
+}
+.Video video{
+    border-radius: 10px;
+    border: 2px solid #55bc5e;
+    width: 1000px;
+    height: 1000px;
+}
+
+
+
