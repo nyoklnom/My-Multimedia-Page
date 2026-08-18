@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Style.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1> My Multimedia Page </h1>
+
+    <hr>
+
+    <div class="Pictures">
+            <h3>Pictures</h3>
+            <p> This is my favorite Pictures</p>
+            <img src="01 - Pictures/DAMN.jpg" alt="Aaron" width="100" height="100">
+            <img src="01 - Pictures/Graduation.jpg" alt="Graduation of small guy" width="100" height="100">
+            <img src="01 - Pictures/Halaka.jpg" alt="Hello" width="100" height="100">
+            <img src="01 - Pictures/Hello Fellas.jpg" alt="MISSYOU" width="100" height="100">
+            <img src="01 - Pictures/Small.jpg" alt="Gimmemymoney" width="100" height="100">
+            
+        </div>
+
+<div class="Audio">
+            <h3>Audio</h3>
+            <p> This is my favorite Audio</p>
+            <h2>Batugan</h2>
+            <audio controls>
+                <source src="02 - Audio/Batugan.mp3" type="audio/mpeg">
+            </audio>
+            <h2>Eskapo</h2>
+            <audio controls>
+                <source src="02 - Audio/ESKAPO.mp3" type="audio/mpeg">
+            </audio>
+            <h2>Tugmang Preso</h2>
+            <audio controls>
+                <source src="02 - Audio/Tugmang Preso.mp3" type="audio/mpeg">
+            </audio>
+            <h2>Tuldok</h2>
+            <audio controls>
+                <source src="02 - Audio/Tuldok.mp3" type="audio/mpeg">
+            </audio>
+            <h2>Whatif</h2>
+            <audio controls>
+                <source src="02 - Audio/Whatif.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+
+
+    <div class="Video">
+            <h3>Video</h3>
+            <p> This is my favorite Video</p>
+            <h2>Finland</h2>
+            <video controls>
+                <source src="03 - Video/Finland.mp4" type="video/mp4" width="100" height="100">
+            </video>
+            <h2>Japan</h2>
+            <video controls>
+                <source src="03 - Video/Japan.mp4" type="video/mp4" width="320" height="240">
+            </video>
+            <h2>Switzerland</h2>
+             <video controls>
+                <source src="03 - Video/Switzerland.mp4" type="video/mp4" width="320" height="240">
+            </video>
+            <h2>Antarctica</h2>
+             <video controls>
+                <source src="03 - Video/Antarctica.mp4" type="video/mp4" width="320" height="240">
+            </video>
+            <h2>Colloseum</h2>
+            <video controls>
+                <source src="03 - Video/Colloseum.mp4" type="video/mp4" width="320" height="240">
+            </video>
+            
+            
+        </div>
+
+    
+</body>
+</html>
